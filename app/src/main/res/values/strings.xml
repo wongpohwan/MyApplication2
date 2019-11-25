@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="message_hint">Enter your message</string>
+    <string name="message">Message:</string>
+    <string name="send">Send</string>
+    <string name="done">Done</string>
+    <string name="second">Second</string>
+    <string name="lucky_number">My Lucky Number</string>
+    <string name="reply">reply</string>
+    <string name="call">Call Me 0123456789</string>
+</resources>
